@@ -1,0 +1,4 @@
+C:\Users\Administrator\Desktop\反射\反射\Test.DB.Interface\bin\Debug\Test.DB.Interface.dll
+C:\Users\Administrator\Desktop\反射\反射\Test.DB.Interface\bin\Debug\Test.DB.Interface.pdb
+C:\Users\Administrator\Desktop\反射\反射\Test.DB.Interface\obj\Debug\Test.DB.Interface.dll
+C:\Users\Administrator\Desktop\反射\反射\Test.DB.Interface\obj\Debug\Test.DB.Interface.pdb

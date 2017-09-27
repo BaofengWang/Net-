@@ -1,0 +1,7 @@
+C:\Users\Administrator\Desktop\反射\反射\Test.DB.MySql\bin\Debug\Test.DB.MySql.dll
+C:\Users\Administrator\Desktop\反射\反射\Test.DB.MySql\bin\Debug\Test.DB.MySql.pdb
+C:\Users\Administrator\Desktop\反射\反射\Test.DB.MySql\bin\Debug\Test.DB.Interface.dll
+C:\Users\Administrator\Desktop\反射\反射\Test.DB.MySql\bin\Debug\Test.DB.Interface.pdb
+C:\Users\Administrator\Desktop\反射\反射\Test.DB.MySql\obj\Debug\Test.DB.MySql.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\反射\反射\Test.DB.MySql\obj\Debug\Test.DB.MySql.dll
+C:\Users\Administrator\Desktop\反射\反射\Test.DB.MySql\obj\Debug\Test.DB.MySql.pdb

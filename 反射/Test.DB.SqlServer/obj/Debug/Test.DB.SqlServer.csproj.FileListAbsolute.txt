@@ -1,0 +1,7 @@
+C:\Users\Administrator\Desktop\反射\反射\Test.DB.SqlServer\bin\Debug\Test.DB.SqlServer.dll
+C:\Users\Administrator\Desktop\反射\反射\Test.DB.SqlServer\bin\Debug\Test.DB.SqlServer.pdb
+C:\Users\Administrator\Desktop\反射\反射\Test.DB.SqlServer\bin\Debug\Test.DB.Interface.dll
+C:\Users\Administrator\Desktop\反射\反射\Test.DB.SqlServer\bin\Debug\Test.DB.Interface.pdb
+C:\Users\Administrator\Desktop\反射\反射\Test.DB.SqlServer\obj\Debug\Test.DB.SqlServer.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\反射\反射\Test.DB.SqlServer\obj\Debug\Test.DB.SqlServer.dll
+C:\Users\Administrator\Desktop\反射\反射\Test.DB.SqlServer\obj\Debug\Test.DB.SqlServer.pdb
